@@ -23,9 +23,6 @@
 > [Sifei Liu](https://sifeiliu.net/)
 > <br>
 > NVIDIA, The University of Hong Kong, University of California, San Diego
-> <br>
-> [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](CODE_LICENSE)
-[![Model License](https://img.shields.io/badge/MODEL%20License-CC%20By%20NC%204.0-red.svg)](MODEL_LICENSE)
 
 ![](./assets/teaser.png)
 
@@ -304,8 +301,7 @@ python inference/sdxl.py
 
 ## 🔑 License
 
-- The code is released under the Apache 2.0 license as found in the [LICENSE](./LICENSE) file.
-- The pretrained weights are released under the [CC-BY-NC-SA-4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
+- Both code and pretrained weights are released under the NVIDIA NC license as found in the [LICENSE](./LICENSE) file.
 - The service is a research preview intended for non-commercial use only, and is subject to the following licenses and terms:
   - [MIT License](./classification/LICENSE) for classification.
   - [CC-By-NC-4.0](./generation/LICENSE) for generation.
