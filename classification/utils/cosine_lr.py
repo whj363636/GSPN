@@ -1,8 +1,11 @@
 """ Cosine Scheduler
-
 Cosine LR schedule with warmup, cycle/restarts, noise.
-
 Hacked together by / Copyright 2020 Ross Wightman
+
+Modified from https://github.com/huggingface/pytorch-image-models/blob/main/timm/scheduler/cosine_lr.py
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
 """
 import logging
 import math

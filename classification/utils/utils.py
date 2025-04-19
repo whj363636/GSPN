@@ -1,5 +1,5 @@
 # --------------------------------------------------------
-# Modified By $@#Anonymous#@$
+# Modified By Hongjun Wang
 # --------------------------------------------------------
 # Swin Transformer
 # Copyright (c) 2021 Microsoft
