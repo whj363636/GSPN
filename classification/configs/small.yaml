@@ -1,0 +1,21 @@
+MODEL:
+  NAME: gspn_small
+  DROP_PATH_RATE: 0.4
+  GSPN:
+    EMBED_DIM: 108
+    DEPTHS: [ 5, 5, 10, 2 ]
+    D_STATE: 16
+    ITEMS_EACH_CHUNK: 2
+    RATIO: 1.5
+    CONV: 7
+    CONV_BIAS: false
+    MLP_RATIO: 4.0
+    ACT_LAYER: "silu"
+    FORWARDTYPE: "v1"
+    SPECIFIC_GLAYERS: [3]
+    DOWNSAMPLE: "v3"
+    PATCHEMBED: "v2"
+    NORM_LAYER: "ln2d"
+TRAIN:
+  BASE_LR: 3e-4
+  MIN_LR: 3e-6
