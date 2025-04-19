@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center" style="border-radius: 10px">
-  <img src="asset/logo.png" width="35%" alt="logo"/>
+  <img src="assets/logo.png" width="35%" alt="logo"/>
 </p>
 
 <a href="https://arxiv.org/abs/2501.12381"><img src="https://img.shields.io/badge/arXiv-2501.12381-A42C25.svg" alt="arXiv"></a> 
