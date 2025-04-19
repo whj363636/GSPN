@@ -37,7 +37,7 @@
 
 - [ ] Model zoo
 - [ ] Further acceleration for GSPN kernel
-- [ ] Apply GSPN on more challenge tasks
+- [ ] Apply GSPN on more challenging tasks
 
 </details>
 
