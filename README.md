@@ -302,10 +302,6 @@ python inference/sdxl.py
 ## 🔑 License
 
 - Both code and pretrained weights are released under the NVIDIA NC license as found in the [LICENSE](./LICENSE) file.
-- The service is a research preview intended for non-commercial use only, and is subject to the following licenses and terms:
-  - [MIT License](./classification/LICENSE) for classification.
-  - [CC-By-NC-4.0](./generation/LICENSE) for generation.
-  - [CreativeML Open RAIL-M](./t2i/LICENSE) for text-to-image generation using Stable Diffusion v-1.5 and Stable Diffusion XL.
 
 
 ## Citation
