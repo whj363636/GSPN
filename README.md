@@ -28,6 +28,7 @@
 
 ## 🔥 News
 
+- [ ] Further acceleration for GSPN kernel (10-50 times speedup with faster convergence and more stability). Stay tuned!
 - (🔥 New) \[2025/04/19\] We release all the training and inference code of GSPN.
 - (🔥 New) \[2025/03/11\] **GSPN is accepted by CVPR 2025.** 🎉🎉🎉
 - \[2025/01\] [GSPN Paper](https://arxiv.org/abs/2501.12381) is on Arxiv!
@@ -36,7 +37,6 @@
   <summary>TODOs</summary>
 
 - [ ] Model zoo
-- [ ] Further acceleration for GSPN kernel
 - [ ] Apply GSPN on more challenging tasks
 
 </details>
